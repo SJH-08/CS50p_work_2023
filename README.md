@@ -1,7 +1,5 @@
 Small projects in Python, with a theme for each module. 
 
-_(Final project in a different repository)_
-
 
 Week 0: Functions, Variables
 
@@ -21,6 +19,6 @@ Week 7: Regular Expressions
 
 Week 8: Object-Oriented Programming
 
-Week 9: Et Cetera
+Week 9: _(Final project in a different repository)_
 
 
